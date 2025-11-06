@@ -35,10 +35,11 @@ Este projeto foi desenvolvido para praticar:
 ---
 
 ## ▶️ Como executar
-```
-1. Clone este repositório:
 
+1. Clone este repositório:
+```
    git clone https://github.com/seu-usuario/conversor-de-moedas.git
+```
 Abra o projeto no IntelliJ IDEA.
 
 Adicione a biblioteca Gson ao classpath.
@@ -46,7 +47,7 @@ Adicione a biblioteca Gson ao classpath.
 Crie uma conta gratuita na ExchangeRate API e copie sua API Key.
 
 Execute a classe principal e insira a API Key e o código da moeda base (ex: USD, BRL, EUR).
-```
+
 💡 Exemplo de uso
 ```
 ApiMoedasService service = new ApiMoedasService("SUA_API_KEY");
