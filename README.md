@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[LINK-DA-TUA-BADGE](https://github.com/milipedia/conversor-moedas/blob/main/Badge-Conversor.png)" alt="Badge Oracle Next Education"/>
+  <img src="https://github.com/milipedia/conversor-moedas/blob/main/Badge-Conversor.png" alt="Badge Oracle Next Education"/>
 </p>
+
 
 # 💱 Conversor de Moedas
 
